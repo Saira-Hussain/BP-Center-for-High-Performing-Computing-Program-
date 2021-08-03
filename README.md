@@ -14,3 +14,5 @@ Given a csv file with tapes, organize the tape data amounts from least to greate
 
 Problem 3:
 On a good day, the OBN boat goes 21 knots (about 24 mph), and on a bad day, the boat goes 17 knots (about 19.5 mph). Each day the boat runs costs $1 million and it takes 30 minutes to place each node. Given a csv files with good and bad day predictions, determine the cost and total days the operation will take.
+
+Created by Saira Hussian, Raina Parikh and Kyra Terez. 
